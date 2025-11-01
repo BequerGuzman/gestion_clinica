@@ -1,4 +1,4 @@
-# 🏥 Sistema de Gestión Clínica - Grupo 9
+# 🏥 Sistema de Gestión Clínica - Grupo 4
 
 Proyecto grupal del curso **Integración 1**, desarrollado en PHP, MySQL, JavaScript, HTML y CSS. El sistema permite gestionar especialidades, médicos, pacientes, diagnósticos, recetas y más.
 
